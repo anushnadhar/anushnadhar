@@ -1,6 +1,6 @@
 👋 Hi, I’m Anushna!
 
-🎓 Currently pursuing a Master's in Information Technology & Analytics at Rutgers Business School - Newark, expecting to graduate in January 2026.
+🎓 Currently pursuing a <b>Master's in Information Technology & Analytics</b> at <b>Rutgers Business School</b> - Newark, expecting to graduate in January 2026.
 
 👩‍💻 Work Experience
 
@@ -9,9 +9,9 @@ In my previous roles, I focused on analyzing data to identify trends and improve
 ⚒️ Skills & Tools
 
 -Python  
--PostgreSQL  
--R 
+-SQL  
 -Tableau
+-R programming
 
 📊 Currently Learning
 * Enhancing skills in data analytics and visualizations
