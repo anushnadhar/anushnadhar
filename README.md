@@ -8,11 +8,11 @@ In my previous roles, I focused on analyzing data to identify trends and improve
 
 ⚒️ Skills & Tools
 
--Python  
--SQL  
--Tableau
--Java
--R programming
+- Python  
+- SQL  
+- Tableau
+- Java
+- R programming
 
 📊 Currently Learning
 * Enhancing skills in data analytics and visualizations
