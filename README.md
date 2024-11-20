@@ -11,6 +11,7 @@ In my previous roles, I focused on analyzing data to identify trends and improve
 -Python  
 -SQL  
 -Tableau
+-Java
 -R programming
 
 📊 Currently Learning
