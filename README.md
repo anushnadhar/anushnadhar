@@ -1,6 +1,6 @@
 👋 Hi, I’m Anushna!
 
-🎓 <b>Master's in Information Technology & Analytics</b> at <b>Rutgers Business School</b>
+🎓 Master's in Information Technology & Analytics at Rutgers Business School
 
 👩‍💻 Work Experience
 
@@ -11,7 +11,8 @@ In my previous roles, I focused on analyzing data to identify trends and improve
 - Python  
 - SQL  
 - Tableau
-- Java
+- Power BI
+- Alteryx
 - R programming
 
 📊 Currently Learning
