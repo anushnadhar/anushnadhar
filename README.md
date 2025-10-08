@@ -1,6 +1,6 @@
 👋 Hi, I’m Anushna!
 
-🎓 Currently pursuing a <b>Master's in Information Technology & Analytics</b> at <b>Rutgers Business School</b> - Newark.
+🎓 <b>Master's in Information Technology & Analytics</b> at <b>Rutgers Business School</b> - Newark.
 
 👩‍💻 Work Experience
 
