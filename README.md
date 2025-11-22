@@ -59,6 +59,7 @@ In my previous roles, I focused on analyzing data to identify trends and improve
 - [Power BI LinkedIn Learning](https://www.linkedin.com/learning/certificates/dd9b6bb5c04f8634de541f7f9bcee0534847d7b4986683fcc7785561affae645?accountId=76115650&u=76115650&success=true&authUUID=gYjN03TvQVSP0UuPWBRByg%3D%3D)
 
 ### 📑 Resume
+📄 [Download My Resume](https://github.com/anushnadhar/anushnadhar/raw/main/Resume.pdf)
 
 
 ### 📊 Currently Learning
