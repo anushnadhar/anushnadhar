@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I’m Anushna!</h1>
 
+<h3 align="center">Data Analyst | Product-Focused | Turning messy data into meaningful insights</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/451a1c49-19b1-4fa6-9f9c-da3d753b5e47" alt="GIF" width="40%" height="auto">>
+  <img src="https://github.com/user-attachments/assets/451a1c49-19b1-4fa6-9f9c-da3d753b5e47" alt="GIF" width="40%" height="auto">
 </p> 
 
 <p align="right">
@@ -22,7 +23,7 @@ Master's in Information Technology & Analytics at <b>Rutgers Business School</b>
 
 ### 👩‍💻 Work Experience
 
-In my previous roles, I focused on analyzing data to identify trends and improve product performance. I worked closely with cross-functional teams to analyse and clean data, suggest creative solutions and ensure smooth execution from data to insights.
+I’ve worked across consulting, analytics, and product-focused roles, analyzing complex datasets, building dashboards, and collaborating with cross-functional teams to enable data-driven decision-making. I love transforming ambiguous problems into clean, actionable insights.
 
 ### ⚒️ Skills & Tools
 
