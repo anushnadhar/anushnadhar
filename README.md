@@ -59,15 +59,24 @@ I’ve worked across consulting, analytics, and product-focused roles, analyzing
 - [Introduction to Generative AI](https://www.skills.google/public_profiles/0be9a596-7cca-4832-bdca-1f5090b96b47/badges/18942764?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 - [Power BI LinkedIn Learning](https://www.linkedin.com/learning/certificates/dd9b6bb5c04f8634de541f7f9bcee0534847d7b4986683fcc7785561affae645?accountId=76115650&u=76115650&success=true&authUUID=gYjN03TvQVSP0UuPWBRByg%3D%3D)
 
-### 📑 Resume
-📄 [Download My Resume](https://github.com/anushnadhar/anushnadhar/raw/main/Resume.pdf)
-
 
 ### 📊 Currently Learning
 * Enhancing skills in data analytics and visualizations
 * Deepening knowledge of statistics
 * Exploring BI tools for comprehensive data visualization
 * Delving into aspects of Product Management for a well-rounded skill set
+
+### 📑 Resume
+[Download My Resume](https://github.com/anushnadhar/anushnadhar/raw/main/Resume.pdf)
+
+### 🤝 Let's Connect
+* 📧 **Email:** [anushna247@gmail.com](mailto:anushna247@gmail.com)
+* <p align="left">
+  <a href="https://www.linkedin.com/in/anushnadhar"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/> LinkedIn</a>
+  </p>
+
+I’m always open to collaborating on analytics projects, learning opportunities, or data discussions!
+
 <!---
 anushnadhar/anushnadhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
