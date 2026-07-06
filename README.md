@@ -41,6 +41,7 @@ I’ve worked across consulting, analytics, and product-focused roles, analyzing
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/alteryx-logo.svg" title="Alteryx" alt="Alteryx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
